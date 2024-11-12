@@ -58,6 +58,13 @@ body {
     color: hsl(0, 0%, 30%);
 }
 
-.attribution {
+footer {
     text-align: center;
+    color: hsl(0, 0%, 100%);
+}
+
+footer a{
+    text-align: center;
+    color: hsl(0, 0%, 50%);
+    text-decoration: none;
 }
