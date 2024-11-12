@@ -4,5 +4,17 @@ body {
     align-items: center; 
     height: 100vh;
     width: 100vw;
-    background-color: hsl(0, 0%, 20%);
+    background-color: hsl(0, 0%, 8%);
+}
+
+.name {
+    color: hsl(0, 0%, 100%);
+}
+
+.tagline {
+    color: hsl(75, 94%, 57%);
+}
+
+.location {
+    color: hsl(0, 0%, 20%);
 }
