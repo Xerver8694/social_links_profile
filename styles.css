@@ -53,7 +53,7 @@ body {
     text-align: center;
 }
 
-.links:hover {
+.links button:hover {
     background-color: hsl(0, 0%, 40%);
 }
 
