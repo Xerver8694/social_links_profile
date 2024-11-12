@@ -10,14 +10,20 @@ body {
 
 .name {
     color: hsl(0, 0%, 100%);
+    font-size: 1.95rem; 
+    margin: 0.5rem 0;
 }
 
 .tagline {
-    color: hsl(75, 94%, 57%);
+    color: hsl(0, 0%, 50%);
+    font-size: 1rem;
+    margin: 0.75rem 0;
 }
 
 .location {
-    color: hsl(0, 0%, 50%);
+    color: hsl(75, 94%, 57%);
+    font-size: 0.85rem;
+    margin: 0.3rem 0;
 }
 
 .card img {
