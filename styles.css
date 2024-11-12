@@ -18,3 +18,16 @@ body {
 .location {
     color: hsl(0, 0%, 50%);
 }
+
+.card {
+    padding: 2rem;
+    background-color: hsl(0, 0%, 15%);
+    border-radius: 10px;
+    text-align: center;
+    width: 100%;
+    max-width: 400px;
+}
+
+.attribution {
+    text-align: center;
+}
