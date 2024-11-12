@@ -28,6 +28,10 @@ body {
     max-width: 400px;
 }
 
+.links {
+    list-style: none;
+}
+
 .attribution {
     text-align: center;
 }
